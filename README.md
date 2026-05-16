@@ -318,12 +318,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-
-**CH S K CHAITANYA**
-
-- GitHub: [@CH-S-K-CHAITANYA](https://github.com/CH-S-K-CHAITANYA)
-- LinkedIn: [CH S K CHAITANYA](https://linkedin.com/in/chskchaitanya)
-
+https://github.com/JatinPilani-Project
 ---
 
-> ⭐ Star this repository if you found it helpful!
